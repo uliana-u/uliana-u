@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @uliana-u
-- 👀 I’m interested in coding, art & 
-- 🌱 I’m currently learning website development
+- 👋 Hi, I’m ...
+- 👀 I’m interested in coding and arts
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ig: gh0st.1001 discord: gh0st#2921
+- 📫 How to reach me ig: 
 
 <!---
 uliana-u/uliana-u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
